@@ -1,0 +1,216 @@
+CRITICAL - 2023-07-17 19:32:10 --> Invalid file: "layouts/tempalte.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/tempalte.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('layouts/tempalte', [], true)
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('crud/upload', [], true)
+ 4 APPPATH\Controllers\Crud.php(31): view('crud/upload')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Crud->tambah()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\referensi\\Kuliah\\semester 4\\Praktikum-Web-Programing\\task\\prakwebprog\\public\\index.php')
+CRITICAL - 2023-07-17 19:33:23 --> Invalid file: "layouts/tempalte.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/tempalte.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('layouts/tempalte', [], true)
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('crud/view', [], true)
+ 4 APPPATH\Controllers\Crud.php(15): view('crud/view')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Crud->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\referensi\\Kuliah\\semester 4\\Praktikum-Web-Programing\\task\\prakwebprog\\public\\index.php')
+CRITICAL - 2023-07-17 19:34:09 --> Invalid file: "layouts/tempalte.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/tempalte.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('layouts/tempalte', [], true)
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('crud/view', [], true)
+ 4 APPPATH\Controllers\Crud.php(15): view('crud/view')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Crud->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\referensi\\Kuliah\\semester 4\\Praktikum-Web-Programing\\task\\prakwebprog\\public\\index.php')
+CRITICAL - 2023-07-17 19:35:13 --> Invalid file: "layouts/tempalte.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/tempalte.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('layouts/tempalte', [], true)
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('crud/view', [], true)
+ 4 APPPATH\Controllers\Crud.php(15): view('crud/view')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Crud->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\referensi\\Kuliah\\semester 4\\Praktikum-Web-Programing\\task\\prakwebprog\\public\\index.php')
+CRITICAL - 2023-07-17 19:35:36 --> Invalid file: "layouts/tempalte.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/tempalte.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('layouts/tempalte', [], true)
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('crud/view', [], true)
+ 4 APPPATH\Controllers\Crud.php(15): view('crud/view')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Crud->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\referensi\\Kuliah\\semester 4\\Praktikum-Web-Programing\\task\\prakwebprog\\public\\index.php')
+CRITICAL - 2023-07-17 19:35:37 --> Invalid file: "layouts/tempalte.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/tempalte.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('layouts/tempalte', [], true)
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('crud/view', [], true)
+ 4 APPPATH\Controllers\Crud.php(15): view('crud/view')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Crud->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\referensi\\Kuliah\\semester 4\\Praktikum-Web-Programing\\task\\prakwebprog\\public\\index.php')
+CRITICAL - 2023-07-17 19:35:37 --> Invalid file: "layouts/tempalte.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/tempalte.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('layouts/tempalte', [], true)
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('crud/view', [], true)
+ 4 APPPATH\Controllers\Crud.php(15): view('crud/view')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Crud->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\referensi\\Kuliah\\semester 4\\Praktikum-Web-Programing\\task\\prakwebprog\\public\\index.php')
+CRITICAL - 2023-07-17 19:35:38 --> Invalid file: "layouts/tempalte.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/tempalte.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('layouts/tempalte', [], true)
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('crud/view', [], true)
+ 4 APPPATH\Controllers\Crud.php(15): view('crud/view')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Crud->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\referensi\\Kuliah\\semester 4\\Praktikum-Web-Programing\\task\\prakwebprog\\public\\index.php')
+CRITICAL - 2023-07-17 19:35:47 --> Invalid file: "layouts/tempalte.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/tempalte.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('layouts/tempalte', [], true)
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('crud/view', [], true)
+ 4 APPPATH\Controllers\Crud.php(15): view('crud/view')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Crud->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\referensi\\Kuliah\\semester 4\\Praktikum-Web-Programing\\task\\prakwebprog\\public\\index.php')
+CRITICAL - 2023-07-17 19:35:51 --> Invalid file: "layouts/tempalte.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/tempalte.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('layouts/tempalte', [], true)
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('crud/upload', [], true)
+ 4 APPPATH\Controllers\Crud.php(31): view('crud/upload')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Crud->tambah()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\referensi\\Kuliah\\semester 4\\Praktikum-Web-Programing\\task\\prakwebprog\\public\\index.php')
+CRITICAL - 2023-07-17 19:35:55 --> Invalid file: "layouts/tempalte.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/tempalte.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('layouts/tempalte', [], true)
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('crud/view', [], true)
+ 4 APPPATH\Controllers\Crud.php(15): view('crud/view')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Crud->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\referensi\\Kuliah\\semester 4\\Praktikum-Web-Programing\\task\\prakwebprog\\public\\index.php')
+CRITICAL - 2023-07-17 19:35:58 --> Invalid file: "layouts/tempalte.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/tempalte.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('layouts/tempalte', [], true)
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('crud/view', [], true)
+ 4 APPPATH\Controllers\Crud.php(15): view('crud/view')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Crud->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\referensi\\Kuliah\\semester 4\\Praktikum-Web-Programing\\task\\prakwebprog\\public\\index.php')
+CRITICAL - 2023-07-17 19:36:32 --> Invalid file: "layouts/tempalte.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/tempalte.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('layouts/tempalte', [], true)
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('crud/view', [], true)
+ 4 APPPATH\Controllers\Crud.php(15): view('crud/view')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Crud->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\referensi\\Kuliah\\semester 4\\Praktikum-Web-Programing\\task\\prakwebprog\\public\\index.php')
+CRITICAL - 2023-07-17 19:37:03 --> Invalid file: "layouts/tempalte.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/tempalte.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('layouts/tempalte', [], true)
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('crud/view', [], true)
+ 4 APPPATH\Controllers\Crud.php(15): view('crud/view')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Crud->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\referensi\\Kuliah\\semester 4\\Praktikum-Web-Programing\\task\\prakwebprog\\public\\index.php')
+CRITICAL - 2023-07-17 20:00:57 --> Invalid file: "crud/tambah.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('crud/tambah.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('crud/tambah', [], true)
+ 3 APPPATH\Controllers\Crud.php(31): view('crud/tambah')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Crud->tambah()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\referensi\\Kuliah\\semester 4\\Praktikum-Web-Programing\\task\\prakwebprog\\public\\index.php')
+CRITICAL - 2023-07-17 20:01:01 --> Invalid file: "crud/tambah.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('crud/tambah.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('crud/tambah', [], true)
+ 3 APPPATH\Controllers\Crud.php(31): view('crud/tambah')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Crud->tambah()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\referensi\\Kuliah\\semester 4\\Praktikum-Web-Programing\\task\\prakwebprog\\public\\index.php')
+CRITICAL - 2023-07-17 20:01:06 --> Invalid file: "crud/tambah.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('crud/tambah.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('crud/tambah', [], true)
+ 3 APPPATH\Controllers\Crud.php(31): view('crud/tambah')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Crud->tambah()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\referensi\\Kuliah\\semester 4\\Praktikum-Web-Programing\\task\\prakwebprog\\public\\index.php')
+CRITICAL - 2023-07-17 20:13:59 --> Undefined array key "nim"
+in APPPATH\Controllers\Crud.php on line 19.
+ 1 APPPATH\Controllers\Crud.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nim"', 'E:\\referensi\\Kuliah\\semester 4\\Praktikum-Web-Programing\\task\\prakwebprog\\app\\Controllers\\Crud.php', 19)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Crud->tambah()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\referensi\\Kuliah\\semester 4\\Praktikum-Web-Programing\\task\\prakwebprog\\public\\index.php')
+CRITICAL - 2023-07-17 20:14:20 --> Undefined array key "nim"
+in APPPATH\Controllers\Crud.php on line 19.
+ 1 APPPATH\Controllers\Crud.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nim"', 'E:\\referensi\\Kuliah\\semester 4\\Praktikum-Web-Programing\\task\\prakwebprog\\app\\Controllers\\Crud.php', 19)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Crud->tambah()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\referensi\\Kuliah\\semester 4\\Praktikum-Web-Programing\\task\\prakwebprog\\public\\index.php')
+CRITICAL - 2023-07-17 20:24:17 --> Undefined array key "nim"
+in APPPATH\Controllers\Crud.php on line 19.
+ 1 APPPATH\Controllers\Crud.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nim"', 'E:\\referensi\\Kuliah\\semester 4\\Praktikum-Web-Programing\\task\\prakwebprog\\app\\Controllers\\Crud.php', 19)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Crud->tambah()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\referensi\\Kuliah\\semester 4\\Praktikum-Web-Programing\\task\\prakwebprog\\public\\index.php')
+CRITICAL - 2023-07-17 20:24:27 --> Undefined array key "nim"
+in APPPATH\Controllers\Crud.php on line 19.
+ 1 APPPATH\Controllers\Crud.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nim"', 'E:\\referensi\\Kuliah\\semester 4\\Praktikum-Web-Programing\\task\\prakwebprog\\app\\Controllers\\Crud.php', 19)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Crud->tambah()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\referensi\\Kuliah\\semester 4\\Praktikum-Web-Programing\\task\\prakwebprog\\public\\index.php')

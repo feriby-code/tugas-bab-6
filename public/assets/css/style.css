@@ -1,0 +1,80 @@
+@import url(https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap);
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.banner,
+.navbar {
+    padding: 40px 70px;
+    background-color: #F1F0EC;
+    text-align: center;
+}
+
+.navbar-icon {
+    flex-grow: 1;
+}
+
+.navbar-page {
+    flex-grow: 2;
+}
+
+.navbar-sosmed {
+    flex-grow: 1;
+}
+
+.navbar-page li,
+.navbar-sosmed li {
+    display: inline;
+}
+
+.navbar-page ul {
+    justify-content: center;
+    text-align: center;
+    display: flex;
+}
+
+.navbar-page li {
+    margin: 0px 20px;
+}
+
+.navbar-page a {
+    text-decoration: none;
+    color: black;
+}
+
+.fa-brans {
+    margin-right: 5px;
+}
+
+.banner {
+    line-height: 350%;
+    background-color: #F7F7F7;
+    width: 100%;
+}
+
+.name {
+    letter-spacing: 3px;
+    font-size: 50px;
+    font-weight: 1000;
+}
+
+.description {
+    opacity: 0.5;
+    font-size: 15px;
+    line-height: 250px;
+}
+
+.about {
+    background-color: #130E0B;
+    color: #FAFAFA;
+    padding: 70px;
+}

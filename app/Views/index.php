@@ -80,10 +80,54 @@
                 <button type="button" onclick="edit_data_<?php echo ($a['nim']) ?>.close()"
                   class="btn btn-sm btn-circle btn-ghost absolute right-2 top-2">✕</button>
 
+
+                                        <div class="mt-6 flex flex-col gap-6 pe-3 ps-3">
+                                            <input hidden type="text" id="nim" name="nim" value="<?php echo ($a['nim']) ?>" class="w-full input input-bordered input-primary" />
+                                            <div class="flex flex-col gap-2">
+                                                <label for="nama" class="ms-2">Nama</label>
+                                                <input type="text" id="nama" name="nama" value="<?php echo ($a['nama']) ?>" class="w-full input input-bordered input-primary" />
+                                            </div>
+                                            <div class="flex flex-col gap-2">
+                                                <label for="prodi" class="ms-2">Prodi</label>
+                                                <input type="text" id="prodi" name="prodi" value="<?php echo ($a['prodi']) ?>" class="w-full input input-bordered input-primary" />
+                                            </div>
+                                            <div class="flex flex-col gap-2">
+                                                <label for="fakultas" class="ms-2">Fakultas</label>
+                                                <input type="text" id="fakultas" name="fakultas" value="<?php echo ($a['fakultas']) ?>" class="w-full input input-bordered input-primary" />
+                                            </div>
+                                        </div>
+
+                                        <div class="mt-10 flex justify-end me-3">
+                                            <button class="btn btn-outline btn-success w-36">Ubah</button>
+                                        </div>
+                                    </div>
+                                </form>
+                            </dialog>
+                    <?php }
+                    } ?>
+                </tbody>
+            </table>
+        </div>
+    </div>
+<div></div>                    
+    <!-- Modal Add-->
+    <dialog id="add_data" class="modal">
+        <form method="POST" action="/tambah" class="modal-box">
+            <h3 class="font-bold text-lg">Tambah Data</h3>
+            <button type="button" onclick="add_data.close()" class="btn btn-sm btn-circle btn-ghost absolute right-2 top-2">✕</button>
+
+            <div class="mt-6 flex flex-col gap-6 pe-3 ps-3">
+                <div class="flex flex-col gap-2">
+                    <label for="nim" class="ms-2">NIM</label>
+                    <input type="text" id="nim" name="nim" placeholder="Masukkan Nim" class="w-full input input-bordered input-primary" />
+                </div>
+                <div class="flex flex-col gap-2">
+
                 <div class="mt-6 flex flex-col gap-6 pe-3 ps-3">
                   <input hidden type="text" id="nim" name="nim" value="<?php echo ($a['nim']) ?>"
                     class="w-full input input-bordered input-primary" />
                   <div class="flex flex-col gap-2">
+
                     <label for="nama" class="ms-2">Nama</label>
                     <input type="text" id="nama" name="nama" value="<?php echo ($a['nama']) ?>"
                       class="w-full input input-bordered input-primary" />

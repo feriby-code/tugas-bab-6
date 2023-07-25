@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -17,8 +16,20 @@
 </head>
 
 <body>
-
+    <div class="p-20 w-full flex justify-center">
+        <div class="collapse bg-base-200">
+            <input type="checkbox" />
+            <div class="collapse-title text-xl font-medium">
+                Nama Kelompok
+            </div>
+            <div class="collapse-content flex flex-col sm:text-4xl text-2xl">
+                <span>1. Ananda Feri Setyawan</span>
+                <span>2. Ananda Ageng Afrizal</span>
+                <span>3. Anjas Restu Adhi Mulia</span>
+                <span>4. Adella Maulana Annur Ramadhan</span>
+            </div>
+        </div>
+    </div>
 </body>
 
 </html>
-

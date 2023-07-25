@@ -103,7 +103,7 @@
             </table>
         </div>
     </div>
-
+<div></div>                    
     <!-- Modal Add-->
     <dialog id="add_data" class="modal">
         <form method="POST" action="/tambah" class="modal-box">

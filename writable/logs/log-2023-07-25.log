@@ -1,0 +1,10 @@
+CRITICAL - 2023-07-25 13:57:59 --> Unmatched '}'
+in APPPATH\Views\index.php on line 159.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('index', [], true)
+ 3 APPPATH\Controllers\FormController.php(23): view('index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\FormController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FormController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('E:\\kuliah\\smt4\\Web Programming\\Tugas6\\tugas-bab-6\\public\\index.php')
